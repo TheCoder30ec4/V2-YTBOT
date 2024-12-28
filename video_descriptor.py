@@ -67,7 +67,7 @@ def save_json(input_string: str) -> None:
 # video_description = df['video_desc'][2]
 # print("Processing Video Description:", video_description)
 
-# response = call_ai(promt=video_description, api="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")
+# response = call_ai(promt=video_description, api="")
 # if response:
 #     save_json(response)
 # else:
