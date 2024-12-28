@@ -45,7 +45,7 @@ def main():
                     download(id=video_title, link=video_link)
 
                     # Generate AI metadata
-                    response = call_ai(promt=video_desc, api="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")
+                    response = call_ai(promt=video_desc, api="")
                     if response:
                         save_json(response)
                     else:
