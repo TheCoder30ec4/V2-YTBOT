@@ -37,6 +37,4 @@ V2-YTBOT is an automated system designed to fetch videos from TikTok and upload 
 ## License
 MIT License
 
----
-
-Let me know if you need any modifications!
+https://www.youtube.com/@HakunaMattataHub
